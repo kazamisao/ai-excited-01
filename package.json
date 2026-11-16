@@ -1,1 +1,1 @@
-{"description":"The Sun-Eye Dragon: a from-scratch Node software renderer that paints a wave-dragon with a glowing eye and a tiny surfer in its barrel, and writes the picture to entry.png.","name":"ai-excited-01","private":true,"scripts":{"render":"node main.ts"},"type":"module","version":"1.0.0"}
+{"description": "The Door the Ocean Pours Through: a giant wooden door in a jungle clearing with a full ocean wave pouring out of it and curling into the sky.", "name": "ai-excited-01", "private": true, "scripts": {"render": "node main.ts"}, "type": "module", "version": "1.0.0"}
