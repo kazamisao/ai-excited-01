@@ -1,1 +1,1 @@
-{"license":"MIT","name":"ai-excited-01","private":true,"type":"module","version":"1.0.0"}
+{"description":"A deterministic Node renderer that draws a wave-dragon at sunset (sun as the dragon's eye, surfer in the barrel) and writes entry.png","engines":{"node":">=22"},"license":"MIT","name":"ai-excited-01","private":true,"scripts":{"build":"mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts","render":"node main.ts"},"type":"module","version":"3.0.0"}
